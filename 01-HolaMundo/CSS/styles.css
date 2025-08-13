@@ -1,0 +1,52 @@
+/* Estilo general de la página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+/* Contenedor principal */
+.card {
+  background-color: white;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Encabezados */
+h1 {
+  color: #3498db;
+}
+
+h2 {
+  color: #2ecc71;
+}
+
+h3 {
+  color: #555;
+}
+
+/* Imagen */
+.profile-img {
+  border-radius: 10px;
+  max-height: 100px;
+}
+
+/* Input y botón */
+input {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
