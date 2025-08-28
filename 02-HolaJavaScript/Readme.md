@@ -15,6 +15,8 @@ Cada archivo JS cubre un tema:
 - `05-ArrayMethods.js` → métodos comunes para trabajar con arrays.
 - `06-Conditionals.js` → condicionales (if/else) para tomar decisiones.
 - `07-Functions.js` → funciones sencillas para reutilizar código.
+- `08-Objects.js` → objetos literales: atributos y métodos própios.
+- `09-OOP.js` → introducción a Programación Orientada a Objetos.
 
 
 > Recomendación: probá un archivo a la vez para entender mejor cada concepto.
