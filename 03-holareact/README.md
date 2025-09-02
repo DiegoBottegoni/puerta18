@@ -1,12 +1,34 @@
-# React + Vite
+# React Basics 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene ejemplos prácticos para aprender los fundamentos de **React** paso a paso.  
+Cada archivo (`01-Componentes.js`, `02-JSX.js`, etc.) explica un concepto con un ejemplo simple.
 
-Currently, two official plugins are available:
+## Cómo usarlo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Asegurate de tener **Node.js** instalado en tu computadora.
+2. Cloná este repositorio.
+3. Instalá las dependencias con:
+   ```bash
+   npm install
+   ```
+4. Iniciá la aplicación en modo desarrollo:
+    ```bash
+    npm run dev
+    ```
+5. Abrí http://localhost:5173/ en tu navegador.
 
-## Expanding the ESLint configuration
+## Estructura de los ejemplos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `00-HolaReact.jsx` → Introducción a React y breve glosario de conceptos básicos.  
+- `01-ComponentsAndProps.jsx` → Qué son los componentes y cómo pasar datos mediante props.  
+- `02-UseState.jsx` → Uso de `useState` para manejar estado local en un componente.  
+- `03-UseState-Beta` → Ejemplo de "Lifting State Up": un padre maneja el estado y lo pasa como props a componentes hijos.  
+- `03-ListAndConditional.jsx` → Cómo renderizar listas y usar condicionales en JSX.  
+- `04-Events.jsx` → Manejo de eventos en React (ejemplo de clicks y actualización de estado).  
+
+
+## Notas
+
+- Podés abrir cada archivo y descomentar el componente que quieras probar.  
+- La idea es avanzar en orden, pero también podés saltar al tema que más te interese.  
+- Estos ejemplos son solo una **base**: después se pueden expandir con proyectos reales.  
