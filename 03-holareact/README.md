@@ -1,7 +1,7 @@
 # React Basics 🚀
 
 Este repositorio contiene ejemplos prácticos para aprender los fundamentos de **React** paso a paso.  
-Cada archivo (`01-Componentes.js`, `02-JSX.js`, etc.) explica un concepto con un ejemplo simple.
+Cada archivo (`01-ComponentsAndProps.jsx`, `02-UseState.jsx`, etc.) explica un concepto con un ejemplo simple.
 
 ## Cómo usarlo
 
@@ -31,4 +31,4 @@ Cada archivo (`01-Componentes.js`, `02-JSX.js`, etc.) explica un concepto con un
 
 - Podés abrir cada archivo y descomentar el componente que quieras probar.  
 - La idea es avanzar en orden, pero también podés saltar al tema que más te interese.  
-- Estos ejemplos son solo una **base**: después se pueden expandir con proyectos reales.  
+- Estos ejemplos son solo una **base conceptual**: después se pueden expandir con proyectos reales.  
