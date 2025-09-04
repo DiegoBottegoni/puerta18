@@ -2,7 +2,7 @@
 
 Este repositorio reúne ejemplos de código y explicaciones breves que acompañan las clases de introducción al desarrollo web.  
 
-El contenido se va **armando y ajustando según las necesidades de los alumnos**, incorporando ejemplos prácticos de los temas que se hablan de forma presencial en la cursada.
+El contenido se va **armando y ajustando según las necesidades de los alumnos**, incorporando ejemplos prácticos de los temas que se hablan de forma presencial durante la cursada en ([Puerta 18](https://www.puerta18.org.ar/)).
 
 ## ¿Qué vas a encontrar?
 - Carpeta **HolaMundo** → ejemplos básicos de estructura y etiquetas. (HTML/CSS)
