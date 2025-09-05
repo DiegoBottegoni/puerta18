@@ -23,3 +23,35 @@ Es más bien **la punta del iceberg**: un punto de partida para despertar la cur
 ---
 
 💡 **Consejo:** Aprovechá este repositorio como guía, pero no te quedes solo con lo que está acá. Buscá documentación, probá cosas nuevas y animate a experimentar.
+
+## Herramientas y recursos recomendados
+
+Algunas de las herramientas que vimos en clase o que pueden ayudarles a practicar y resolver más fácil distintos temas.  
+
+---
+
+## 🎨 Estilos y frameworks
+- **TailwindCSS** → [tailwindcss.com](https://tailwindcss.com/)  
+- **DaisyUI** → [daisyui.com](https://daisyui.com/)  
+- **Bootstrap** → [getbootstrap.com](https://getbootstrap.com/)  
+
+---
+
+## 🧩 CSS – utilidades
+- **Generador de Grid** → [cssgridgenerator.io](https://cssgridgenerator.io/)  
+- **Generador de Flexbox** → [flexboxlabs.netlify.app](https://flexboxlabs.netlify.app/)  
+
+---
+
+## 🚀 JavaScript y entornos
+- **Node.js** → [nodejs.org](https://nodejs.org/)  
+- **React** → [react.dev](https://react.dev/)  
+
+---
+
+## 🎮 Juegos y práctica
+- **WarriorJS** → [warriorjs.com](http://warriorjs.com/)  
+- **Flexbox Froggy** → [flexboxfroggy.com](https://flexboxfroggy.com/)  
+- **CSS Grid Garden** → [cssgridgarden.com](https://cssgridgarden.com/#es)  
+
+---
