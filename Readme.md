@@ -24,7 +24,7 @@ Es más bien **la punta del iceberg**: un punto de partida para despertar la cur
 
 💡 **Consejo:** Aprovechá este repositorio como guía, pero no te quedes solo con lo que está acá. Buscá documentación, probá cosas nuevas y animate a experimentar.
 
-## Herramientas y recursos recomendados
+# Herramientas y recursos recomendados
 
 Algunas de las herramientas que vimos en clase o que pueden ayudarles a practicar y resolver más fácil distintos temas.  
 
